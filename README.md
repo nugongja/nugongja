@@ -1,15 +1,9 @@
 ## Hi there 👋
 
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nugongja&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/nugongja"
-    width="600"
-    height="300"
-  />
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
 </a>
-  
+
 
 <!--
 **nugongja/nugongja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
