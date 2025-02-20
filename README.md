@@ -5,7 +5,7 @@
   <img
     src="https://render.gitanimals.org/lines/nugongja"
     width="600"
-    height="120"
+    height="500"
   />
 </a>
   
